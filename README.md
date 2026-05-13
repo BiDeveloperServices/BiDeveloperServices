@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Crystie Johnson</h1> <br/><a href="https://github.com/BiDeveloperServices">Lead Developer</a>, <a href="https://www.linkedin.com/in/BiDeveloperServices/">Data Architect Professional</a></h1>
+<h1>Hi 👋, I'm Crystie Johnson</h1> <br/>
 
 <h2>👨‍💻 Professional Profile | Core Capabilities:</h2>
 https://github.com/BiDeveloperServices/Crystie_Johnson
