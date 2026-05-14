@@ -4,7 +4,12 @@
 https://github.com/BiDeveloperServices/Crystie_Johnson
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+ <table>
+<tr>
+  <td>$${\color{red} \verb|**|Under Construction}$$</td>
+</tr>
+</table>
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -20,8 +25,11 @@ https://github.com/BiDeveloperServices/Crystie_Johnson
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -->
 
 <h2> 🤳 Connect with me:</h2>
+
+<p><a target="_blank" href="https://www.linkedin.com/in/MrsCrystie" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!--
 Here are some ideas to get you started:
@@ -35,5 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><a target="_blank" href="https://www.linkedin.com/in/MrsCrystie" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
