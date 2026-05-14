@@ -1,4 +1,15 @@
-<h1>Hi there 👋, my name is Crystie Johnson</h1> <br/>
+## Hi there 👋
+My name is Crystie Johnson, and I'm a results-driven Senior Data Architect and Data Engineering Leader with over 20 years of experience designing, modernizing, and operationalizing enterprise-scale data platforms, cloud migration initiatives, and advanced analytics ecosystems across Azure, Databricks, AWS, and hybrid enterprise environments. Extensive expertise building scalable data ingestion pipelines capable of processing structured, semi-structured, and unstructured data from batch and real-time streaming sources including APIs, relational databases, flat files, message queues, and distributed cloud platforms.
+
+- 🔭 I’m currently working on enterprise data architecture solutions, cloud data migrations, ETL modernization projects, and building scalable analytics platforms with Azure, Databricks, Snowflake, and SQL Server <br>
+- 🌱 I’m currently learning advanced Lakehouse architecture patterns, AI-driven data engineering workflows, Unity Catalog governance, and modern real-time streaming with Kafka & Spark<br>
+- 👯 I’m looking to collaborate on data engineering, cloud migration, business intelligence, ETL automation, and open-source analytics projects<br>
+- 🤔 I’m looking for help with expanding innovative open-source data engineering solutions and connecting with teams building next-generation data platforms<br>
+- 💬 Ask me about SQL Server, Data Warehousing, Data Architecture, Azure Data Factory, Databricks, ETL frameworks, BI strategy, performance tuning, and large-scale enterprise migrations<br>
+- 📫 How to reach me: Connect with me on LinkedIn or email me at BiDeveloperServices@gmail.com
+- 😄 Pronouns: She/Her (Chris-tee)<br>
+- ⚡ Fun fact: I’ve spent 20+ years designing data solutions across aerospace, healthcare, logistics, retail, and government systems—and I still love solving complex data puzzles<br>
+
 
 <h2>👨‍💻 Professional Profile | Core Capabilities:</h2>
 https://github.com/BiDeveloperServices/Crystie_Johnson
