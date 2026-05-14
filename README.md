@@ -19,6 +19,8 @@ https://github.com/BiDeveloperServices/Crystie_Johnson
   <td>$${\color{red} \verb|**|Under Construction}$$</td>
 </tr>
 </table>
+
+https://github.com/BiDeveloperServices/ProjectI.pdf
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
