@@ -4,12 +4,11 @@ My name is Crystie Johnson, and I'm a results-driven Senior Data Architect and D
 - 🔭 I’m currently working on enterprise data architecture solutions, cloud data migrations, ETL modernization projects, and building scalable analytics platforms with Azure, Databricks, Snowflake, and SQL Server <br>
 - 🌱 I’m currently learning advanced Lakehouse architecture patterns, AI-driven data engineering workflows, Unity Catalog governance, and modern real-time streaming with Kafka & Spark<br>
 - 👯 I’m looking to collaborate on data engineering, cloud migration, business intelligence, ETL automation, and open-source analytics projects<br>
-- 🤔 I’m looking for help with expanding innovative open-source data engineering solutions and connecting with teams building next-generation data platforms<br>
+- 🤔 I’m looking for help with expanding my professional network, contributing to open-source projects, and finding exciting 100% remote Senior Data Engineer/Data Architect opportunities.<br>
 - 💬 Ask me about SQL Server, Data Warehousing, Data Architecture, Azure Data Factory, Databricks, ETL frameworks, BI strategy, performance tuning, and large-scale enterprise migrations<br>
 - 📫 How to reach me: Connect with me on LinkedIn or email me at BiDeveloperServices@gmail.com
 - 😄 Pronouns: She/Her (Chris-tee)<br>
 - ⚡ Fun fact: I’ve spent 20+ years designing data solutions across aerospace, healthcare, logistics, retail, and government systems—and I still love solving complex data puzzles<br>
-
 
 <h2>👨‍💻 Professional Profile | Core Capabilities:</h2>
 https://github.com/BiDeveloperServices/Crystie_Johnson
