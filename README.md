@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Crystie Johnson</h1> <br/>
+<h1>Hi there 👋, my name is Crystie Johnson</h1> <br/>
 
 <h2>👨‍💻 Professional Profile | Core Capabilities:</h2>
 https://github.com/BiDeveloperServices/Crystie_Johnson
