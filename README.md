@@ -20,7 +20,7 @@ https://github.com/BiDeveloperServices/Crystie_Johnson
 </tr>
 </table>
 
-https://github.com/BiDeveloperServices/Algorithms-Practice/Author.xml
+https://github.com/BiDeveloperServices/DLE_DQE.pdf
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
