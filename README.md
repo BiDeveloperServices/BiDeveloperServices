@@ -14,6 +14,7 @@ My name is Crystie Johnson, and I'm a results-driven Senior Data Architect and D
 https://github.com/BiDeveloperServices/Crystie_Johnson
 
 <h2>👨‍💻 Software Development Projects:</h2>
+https://github.com/BiDeveloperServices/Algorithms-Practice
  <table>
 <tr>
   <td>$${\color{red} \verb|**|Under Construction}$$</td>
